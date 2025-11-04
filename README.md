@@ -3,7 +3,7 @@
 Breve descripción del proyecto: qué hace, objetivos y contexto.
 
 🧰 Tecnologías utilizadas
-💻 Java 8 / JavaFX
+💻 Java 22 / JavaFX
 🗄️ MySQL
 🧱 Hibernate / JPA
 🌐 RESTful API
@@ -11,4 +11,4 @@ Breve descripción del proyecto: qué hace, objetivos y contexto.
 
 📦 Instalación
 📥 Clonar el repositorio
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/EkaitzGarcia/mi-proyecto.git
